@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Joses, a passionate student currently pursuing a degree in Computer Science with a specialization in Artificial Intelligence.
+My name is Joses, I am a passionate student currently pursuing a degree in Computer Science with a specialization in Artificial Intelligence.
 My interests lie in the world of data analysis and AI/ML algorithms.
 
 ## About Me
