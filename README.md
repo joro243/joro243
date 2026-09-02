@@ -1,14 +1,14 @@
-# Hi there! 👋
+# Hi there! 
 
 My name is Joses, I am a passionate student currently pursuing a degree in Computer Science with a specialization in Artificial Intelligence.
 My interests lie in the world of data analysis and AI/ML algorithms.
 
 ## About Me
 
-- 🎓 **Education**: Studying Computer Science with AI at Brunel University.
-- 💡 **Interests**: Data Analysis, Machine Learning, Artificial Intelligence, and Data Visualization.
-- 🌱 **Currently Learning**: Advanced Machine Learning techniques and Big Data technologies.
-- 💼 **Looking for**: Internship opportunities and collaborative projects in the field of Data Science and AI/ML.
+-  **Education**: Studying Computer Science with AI at Brunel University.
+-  **Interests**: Data Analysis, Machine Learning, Artificial Intelligence, and Data Visualization.
+-  **Currently Learning**: Advanced Machine Learning techniques and Big Data technologies.
+
 
 ## Skills
 
